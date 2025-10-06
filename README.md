@@ -4,6 +4,10 @@
 
 ![Riwaayat Logo](public/images/peacock-logo.png)
 
+**Demo Video:** [https://youtu.be/hcEoqiVTJ30?si=3o-qGTqW2hBB81mf](https://youtu.be/hcEoqiVTJ30?si=3o-qGTqW2hBB81mf)
+
+**MVP Link:** [https://riwaayat-artisan-marketplace.onrender.com/](https://riwaayat-artisan-marketplace.onrender.com/)
+
 ## 🌟 Overview
 
 Riwaayat is a revolutionary platform designed specifically for Indian artisans and craftspeople to digitize their traditional crafts and reach global markets. Using cutting-edge AI technology, we help artisans create professional online stores, generate compelling product descriptions through voice recordings, and tell their craft stories to the world.
@@ -193,3 +197,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for Indian Artisans**
 
 *Preserving traditions, embracing technology*
+
